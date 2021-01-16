@@ -1,0 +1,32 @@
+body  /*this is used to adjust the background image*/
+{
+background-image: url("wp1915273.jpg");
+background-repeat: no-repeat;
+background-size: cover;
+background-size: 100% 100%;
+background-attachment: fixed;
+}
+
+gen /*this sets the color of gender to black*/
+{
+color:black;
+}
+
+
+table /* this is used ton control elements of table*/
+ {
+ color:black;
+ opacity:0.75;
+ background-color:white;
+ border-radius:30px;
+ }
+
+
+ #btn /* for submit and reset button*/
+ {
+ background-color:black;
+ color:white;
+ height:35px;
+ width:100px;
+ border-radius:25px;
+ }
